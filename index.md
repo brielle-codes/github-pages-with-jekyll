@@ -1,5 +1,5 @@
 ---
-title: "brielle codes."
+title: "brielle codes!"
 ---
 
 I'm glad you are here. I plan to talk about ...
